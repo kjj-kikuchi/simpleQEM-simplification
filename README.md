@@ -5,7 +5,7 @@
 - macOS Sequoia 15.1
 - g++-13 (Homebrew GCC 13.2.0) 13.2.0
 
-<img src = "snapshot01.png" width = 50%><img src = "snapshot00.png" width = 50%>
+<img src = "snapshot00.png" width = 50%><img src = "snapshot01.png" width = 50%>
 
 
 ### 概略
