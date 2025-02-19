@@ -8,6 +8,15 @@
 #ifndef union_find_hpp
 #define union_find_hpp
 
-#include <stdio.h>
+#include <vector>
+
+struct UnionFind
+{
+    std::vector<int> parents;
+
+    UnionFind(int n);
+    int find(int x);
+    void unite(int x, int y);
+};
 
 #endif /* union_find_hpp */
